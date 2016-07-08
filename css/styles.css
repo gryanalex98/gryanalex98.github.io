@@ -234,7 +234,7 @@ iframe {
   position: relative;
 }
 .latest .featured-image .text {
-  background: #3AAA64;
+  background: #72cbcb;
   color: #fff;
 }
 .latest .featured-image .ribbon {
@@ -268,7 +268,7 @@ iframe {
   content: '';
   position: absolute;
   bottom: -5px;
-  border-top: 5px solid #276582;
+  border-top: 5px solid #72cbcb;
   border-left: 5px solid transparent;
   border-right: 5px solid transparent;
 }
@@ -367,7 +367,7 @@ iframe {
   margin-bottom: 10;
 }
 .skills .skillset .level-title .level-label {
-  color: #ccd1d6;
+  color: #72cbcb;
   font-size: 14px;
   font-weight: 400;
   font-family: "Lato", arial, sans-serif;
